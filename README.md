@@ -35,7 +35,10 @@ The **Explainable AI (XAI)** feature utilizes the **attention weights** from the
 2.  **Visualization:** The words are visually rendered in the app, with the **intensity of the color** (Red for Spam/Phishing, Blue for Ham) corresponding to how much attention the model paid to that word.
 3.  **Explanation:** This provides an immediate, intuitive explanation for the AI's prediction, showing **which words** made the model think the message was spam (e.g., 'URGENT', 'CLAIM', 'FREE', 'link').
 
-***
+***Output Screenshots
+<img width="1366" height="768" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/05465f14-8ced-48ab-8781-8d8d68933e0b" />
+<img width="1366" height="768" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/5ec58326-d247-466a-95df-458c61866c87" />
+<img width="1366" height="768" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/d720ec02-bc80-415c-8943-c5ebbe62cef8" />
 
 🛠️ Installation and Setup
 
@@ -53,8 +56,5 @@ On Windows:
 On macOS/Linux:
 source venv/bin/activate
 
-Output Screenshots
-<img width="1366" height="768" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/05465f14-8ced-48ab-8781-8d8d68933e0b" />
-<img width="1366" height="768" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/5ec58326-d247-466a-95df-458c61866c87" />
-<img width="1366" height="768" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/d720ec02-bc80-415c-8943-c5ebbe62cef8" />
+
 
